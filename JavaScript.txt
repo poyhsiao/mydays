@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-04-30T09:38:31+08:00
+
+====== JavaScript ======
+Created 週二 30 四月 2013
+
+Shared
+* [[Maintainable Javascript：作者Nicholas Zakas演說重點節錄]]

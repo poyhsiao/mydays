@@ -11,6 +11,6 @@ Including:
 * Journal
 * Ideas
 * News
-* Tech
+* [[Tech]]
 
 I'll add these files and articles here
