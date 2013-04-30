@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-04-30T09:15:30+08:00
+
+====== Home ======
+Created 週二 30 四月 2013
+
+Here is the list of my pages.
+
+Including:
+* Journal
+* Ideas
+* News
+* Tech
+
+I'll add these files and articles here
